@@ -1,7 +1,7 @@
 # the tech book
-## Chapter 01
-## Chapter 02
-## Chapter 03
+## Chapter 01 flows with circles
+## Chapter 02 faster higher stronger with proper optimizations
+## Chapter 03 
 ## Chapter 04
 ## Chapter 05
 ## Chapter 06
